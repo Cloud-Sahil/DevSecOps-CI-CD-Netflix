@@ -1,7 +1,7 @@
 # DevSecOps CI/CD — Netflix Clone Deployment Guide
 
 > **Project:** Deploy a Secure Netflix Clone using DevSecOps Pipeline  
-> **Source:** https://github.com/Bijan1235/Netflix-clone.git  
+> **Source:** [https://github.com/Bijan1235/Netflix-clone.git](https://github.com/jason-liu22/netflix-clone-react-typescript.git)  
 > **Stack:** Jenkins · Docker · SonarQube · Trivy · OWASP · Prometheus · Grafana · Kubernetes  
 > **Server:** AWS EC2 Ubuntu 24.04 T2 Large
 
